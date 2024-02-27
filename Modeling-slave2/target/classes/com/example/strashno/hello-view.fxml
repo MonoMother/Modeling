@@ -104,8 +104,8 @@
             <Font size="27.0" />
          </font>
       </Text>
-      <Button fx:id="handleButton" layoutX="522.0" layoutY="326.0" onAction="#handleButtonAction" text="Handle" />
-      <Button fx:id="nextStepButton" layoutX="522.0" layoutY="370.0" onAction="#onNextStepClick" text="Next Step" />
+      <Button fx:id="handleButton" layoutX="522.0" layoutY="337.0" onAction="#handleButtonAction" text="Handle" />
+      <Button fx:id="nextStepButton" layoutX="522.0" layoutY="383.0" onAction="#onNextStepClick" text="Next Step" />
       <Text layoutX="402.0" layoutY="341.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3">
          <font>
             <Font size="27.0" />
@@ -141,7 +141,7 @@
         </menus>
       </MenuBar>
       <TextField layoutX="29.0" layoutY="232.0" prefHeight="36.0" prefWidth="375.0" />
-      <TextArea layoutX="30.0" layoutY="75.0" opacity="0.21" prefHeight="141.0" prefWidth="842.0">
+      <TextArea layoutX="30.0" layoutY="82.0" opacity="0.21" prefHeight="138.0" prefWidth="842.0">
          <font>
             <Font size="35.0" />
          </font>
@@ -151,7 +151,7 @@
             <Font size="35.0" />
          </font>
       </TextArea>
-      <TextArea layoutX="522.0" layoutY="451.0" opacity="0.21" prefHeight="274.0" prefWidth="338.0">
+      <TextArea layoutX="522.0" layoutY="436.0" opacity="0.21" prefHeight="289.0" prefWidth="338.0">
          <font>
             <Font size="35.0" />
          </font>

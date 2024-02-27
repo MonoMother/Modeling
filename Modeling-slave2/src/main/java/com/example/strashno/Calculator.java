@@ -50,6 +50,9 @@ import java.util.ResourceBundle;
             // Обновление текста во втором GridPane
             controller.updateSecondGridPaneText(postfixExpression);
 
+
+
+
             steps = InFixToPostFix.convertToPostfixStepByStep(name);
 
             stage.close();

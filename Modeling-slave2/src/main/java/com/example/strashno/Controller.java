@@ -24,11 +24,9 @@ public class Controller {
     public MenuBar menuForHelp;
     public GridPane secondTrain;
     public GridPane stack;
-    public TextField exit;
+
     @FXML
     private TextField calculator;
-
-
     private List<Step> steps; // Добавляем поле steps для хранения списка шагов
     private int currentStepIndex = 0; // Добавляем индекс текущего шага
 
